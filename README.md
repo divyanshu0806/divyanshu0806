@@ -78,16 +78,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=divyanshu0806&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">

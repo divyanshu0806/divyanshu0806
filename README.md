@@ -106,7 +106,7 @@
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/divyanshu0806?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/divyanshu0806/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/divyanshu_0806?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/divyanshu0806/)
 
 </div>
 

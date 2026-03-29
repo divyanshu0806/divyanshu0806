@@ -63,12 +63,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=divyanshu0806&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu0806&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
-</div>
 
 <div align="center">
 
@@ -76,21 +70,6 @@
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Readify](https://github-readme-stats.vercel.app/api/pin/?username=divyanshu0806&repo=Readify-Library&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/divyanshu0806/Readify-Library)
-[![Weather Forecast](https://github-readme-stats.vercel.app/api/pin/?username=divyanshu0806&repo=weather-forecast&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/divyanshu0806/weather-forecast)
-
-[![PDF Merger](https://github-readme-stats.vercel.app/api/pin/?username=divyanshu0806&repo=pdfmerger&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/divyanshu0806/pdfmerger)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=divyanshu0806&repo=My-Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/divyanshu0806/My-Portfolio)
-
-</div>
-
----
 
 ## 💻 LeetCode Stats
 

@@ -61,14 +61,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu0806&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-
-</div>
 
 
 ## 💻 LeetCode Stats
@@ -81,13 +73,6 @@
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Divyanshu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyanshu0806&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true)](https://github.com/divyanshu0806)
-
-</div>
 
 ---
 
